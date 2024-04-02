@@ -1,4 +1,4 @@
-# COM_SCI_267_Final
+# CS-267-Final-Project
 
 ## Names
 - Jianfan Huo
